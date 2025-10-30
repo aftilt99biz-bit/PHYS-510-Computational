@@ -5,4 +5,4 @@ All the action is in the slides and notebooks, which by default run in colab, bu
 
 Textbook: Computational Physics by Mark Newman, 2nd edition
 
-Google classroom link: [TBD](https://classroom.github.com/classrooms/67593652-niucompphys-2026)
+Google classroom link: [Link to github classroom page](https://classroom.github.com/classrooms/67593652-niucompphys-2026)
